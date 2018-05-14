@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.2d955fca2f6fd3c37f4c.js",
+        "/main.02a0585cb35519c26ee1.js",
         "/polyfills.2903ad11212d7d797800.js",
         "/runtime.6afe30102d8fe7337431.js",
         "/scripts.e611bf743f88e3c9ed67.js",
-        "/styles.d6e397ce5c7df17a047e.css"
+        "/styles.8af49755557f8a66ec4a.css"
       ],
       "patterns": []
     },
@@ -34,6 +34,7 @@
         "/assets/icons/icon-96x96.png",
         "/assets/images/950xl/1.jpg",
         "/assets/images/alipay.svg",
+        "/assets/images/avatar.jpg",
         "/assets/images/bitcoin.svg",
         "/assets/images/github.svg",
         "/assets/images/like.svg",
@@ -57,18 +58,19 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/images/950xl/1.jpg": "674fa96ced9b888403a2584d51c68283e02924b3",
     "/assets/images/alipay.svg": "46cc0552a9f6d700d618db3fcad25e1b8e697e36",
+    "/assets/images/avatar.jpg": "ed3baa441a50c11c6a1fd4649b1e8ad0fefee542",
     "/assets/images/bitcoin.svg": "635f7cca5e675d192be2717788175c7a2146013a",
     "/assets/images/github.svg": "90ba9a3b0dc19e70e742a39b014194f801e00f97",
     "/assets/images/like.svg": "22a2754dc454d7b0321b70914fb2936b8d2ea8ab",
     "/assets/images/paypal.svg": "92f3bc495f20a0190d3041be03345c46d6238c25",
     "/assets/images/wechat.svg": "330496ad42446a29f37a2b97fc388ebd77a8cb9f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d6efd716c7d4e1d4bdd06984afa71254b86ddd82",
-    "/main.2d955fca2f6fd3c37f4c.js": "9859c2c7ea758a946bc1a456f4b3489b3be0f2e5",
+    "/index.html": "b5e7824cd3f7374b93a2bee4b974f1e14b572a72",
+    "/main.02a0585cb35519c26ee1.js": "b3f77978346f6037c1159268c740447188030a8c",
     "/polyfills.2903ad11212d7d797800.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.e611bf743f88e3c9ed67.js": "acc0bbe82c2cf93735770b73e076205cb0ad0a48",
-    "/styles.d6e397ce5c7df17a047e.css": "61cc983cc8f8bec8b1dc9c896291d1f0cd46d417"
+    "/styles.8af49755557f8a66ec4a.css": "71ffc9854a685effbb66db9d338b6948d56e43fc"
   },
   "navigationUrls": [
     {

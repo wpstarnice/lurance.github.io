@@ -15,7 +15,10 @@
         "/scripts.e611bf743f88e3c9ed67.js",
         "/styles.8af49755557f8a66ec4a.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cdn\\.bootcss\\.com\\/font-awesome\\/4\\.7\\.0\\/css\\/font-awesome\\.min\\.css",
+        "https:\\/\\/cdn\\.bootcss\\.com\\/font-awesome\\/4\\.7\\.0\\/fonts\\/fontawesome-webfont\\.woff2\\?v=4\\.7\\.0"
+      ]
     },
     {
       "name": "assets",
@@ -44,7 +47,29 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "articles",
+      "patterns": [
+        "\\/(?:.+\\/)?[^\\/]*\\.md"
+      ],
+      "strategy": "performance",
+      "maxSize": 50,
+      "maxAge": 604800000,
+      "version": 1
+    },
+    {
+      "name": "configData",
+      "patterns": [
+        "\\/(?:.+\\/)?[^\\/]*\\.json",
+        "https:\\/\\/api\\.github\\.com\\/repos\\/Lurance\\/X\\/contents\\/\\?ref=Articles"
+      ],
+      "strategy": "performance",
+      "maxSize": 50,
+      "maxAge": 172800000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/assets/css/donate.css": "967a52409648a68df64bee85184c1aa036c28414",
     "/assets/css/typing.css": "6b1c0a51c5b544ba492747657a4af628ab10b777",
